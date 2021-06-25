@@ -1,0 +1,86 @@
+.box{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    font-family: sans-serif;
+}
+section{
+    height: 600px;
+    
+}
+.tomato{
+    color: rgb(228, 48, 17);
+}
+.top-baner{
+    
+    background-repeat: no-repeat;
+    background-image: url(img/header-bg.png);
+}
+img{
+    width: 70%;
+}
+.align{
+    margin-top: 150px;
+}
+.btn-1{
+    background-color: rgb(228, 66, 66);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(199, 74, 101),rgb(226, 19, 19));
+}
+.second-baner{
+    background-repeat: no-repeat;
+    background-image: url(img/biography-bg.png);
+}
+.third-bg{
+    background-repeat: no-repeat;
+    background-image: url(img/latest-work-bg.png);
+}
+.box-1{
+    width: 30%;
+    float: left;
+    margin-left:3%;
+    padding-bottom: 5%;
+}
+.forth-section{
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.main{
+    margin-left: 60px;
+}
+.text-1{
+    text-align: center;
+}
+.footer-1{
+    text-align: center;
+}
+.footer-2{
+    width: 500px;
+    height: 100px;
+    padding: 3px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 5px;
+    background-image:linear-gradient(45deg, tomato,orange);
+}
+.footer-2 h5{
+
+    text-align: center;
+    color: white;
+}
+.footer-2 h2{
+    text-align: center;
+    color: white;
+}
